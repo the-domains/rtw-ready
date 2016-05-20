@@ -1,0 +1,14 @@
+layout_spectrum: 0.6637288427446038
+typography_spectrum: 0.22890443564392626
+color:
+  brandStrength: 0.19722980773076415
+  lightness: 0.9368465838488191
+  saturation: 0.3492655362933874
+  rhythmicContrast: 0.3871086095459759
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: RTW Ready

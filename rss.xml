@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[RTW Ready]]></title>
         <description><![CDATA[RTW Ready]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rtw-ready/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 20 May 2016 17:55:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/rtw-ready/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
+            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
+            <guid isPermaLink="false">67fa27dd-d010-4a64-96de-cc03517b3e49</guid>
+            <pubDate>Fri, 20 May 2016 17:55:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
             <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><p>NEW YORK - June 15, 2015 - The iPhone Photography Awards™ (IPPAWARDS) is proud to announce the winners of the 8th Annual Awards. They were selected from thousands of entries submitted by iPhone photographers from 120 countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3682134737542db758520dcb5c569d0c5b326f1d.jpg"></article>]]></description>

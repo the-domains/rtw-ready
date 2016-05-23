@@ -4,7 +4,7 @@
         <description><![CDATA[RTW Ready]]></description>
         <link>https://thegrid.ai/rtw-ready/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 16:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 16:56:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rtw-ready/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Round the World Ready.]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/rtw-ready/26e850e5-a2f8-47e8-8f96-401b6ec69361/index.html</link>
             <guid isPermaLink="false">26e850e5-a2f8-47e8-8f96-401b6ec69361</guid>
             <pubDate>Sun, 22 May 2016 07:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">67fa27dd-d010-4a64-96de-cc03517b3e49</guid>
-            <pubDate>Fri, 20 May 2016 17:55:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
